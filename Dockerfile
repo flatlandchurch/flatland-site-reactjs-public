@@ -1,4 +1,4 @@
-FROM node:8.9.4-alpine
+FROM node:10.14.0
 
 LABEL maintainer="Flatland Church"
 
